@@ -125,10 +125,10 @@ npm start
 
 ### **`ᥫ᭡ Propietario`**
 <a
-href="https://github.com/Fer280809"><img src="https://github.com/Fer280809.png" width="130" height="130" alt="
+href="https://github.com/Fer280809"><img src="https://github.com/Fer280809.png" width="230" height="230" alt="
 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔"/></a>
 
 ### **`🜸 Créditos`**
-<a href="https://github.com/edward-1738" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/edward-1738.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
+<a href="pon tu link de githud" style="display:inline-block; text-decoration: none;">
+    <img src="pon link de foto" width="130" height="130" alt="nombre" style="border-radius: 50%;"/>
 </a>
