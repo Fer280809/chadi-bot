@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Fer280809/Asta_bot && cd Asta_bot
+git clone https://github.com/Fer280809/chadi-bot && cd chadi-bot
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Asta_bot
+    cd chadi-bot
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -97,7 +97,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Yuki_Suou-Bot && nano settings.js
+    cd chadi-bot && nano settings.js
    ```
 
 </details>
